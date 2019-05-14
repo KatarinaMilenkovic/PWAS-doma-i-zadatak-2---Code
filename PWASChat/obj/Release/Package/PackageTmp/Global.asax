@@ -1,0 +1,1 @@
+﻿<%@ Application Inherits="PWASChat.Global" %>
