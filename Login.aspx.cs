@@ -30,4 +30,4 @@ namespace SignalRChat
                 txtEmail.Value = "Invalid Email or Password!!";
         }
     }
-}
+}.
